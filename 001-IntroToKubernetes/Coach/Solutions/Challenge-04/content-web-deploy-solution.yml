@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: content-web
-        image: whatthehackmsft/content-web
+        image: ankitdesai/content-web
         resources:
           requests:
             cpu: 500m
